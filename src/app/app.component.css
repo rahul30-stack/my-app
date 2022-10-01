@@ -1,0 +1,22 @@
+.giva{
+    text-align: center;
+   border-color: aqua;
+   text-decoration: dashed;
+   background-color: antiquewhite;
+}
+.btn{
+
+    background-color: blue;
+    color:white;
+    justify-content: space-around;
+   
+   
+
+}
+.btn:hover{
+    background-color: red;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
